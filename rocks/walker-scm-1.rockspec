@@ -10,12 +10,12 @@ description = {
    summary = "Walker's sampling algorithm",
    detailed = [[
    ]],
+   homepage= "https://github.com/rlebret/walker",
    license = "BSD"
 }
 
 dependencies = {
-   "torch >= 7.0",
-   "utils >= 1.0"
+   "torch >= 7.0"
 }
 
 build = {

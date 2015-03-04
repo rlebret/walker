@@ -1,5 +1,4 @@
 require 'torch'
-require 'utils'
 
 walker = {}
 
